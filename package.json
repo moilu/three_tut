@@ -1,0 +1,29 @@
+{
+  "name": "three_tut",
+  "version": "1.0.0",
+  "description": "Threejs Tutorial",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/moilu/three_tut.git"
+  },
+  "keywords": [
+    "three.js",
+    "javascript"
+  ],
+  "author": "Moises Luna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moilu/three_tut/issues"
+  },
+  "homepage": "https://github.com/moilu/three_tut#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "three": "^0.155.0"
+  }
+}
